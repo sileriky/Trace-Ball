@@ -1,28 +1,30 @@
-# Trace-Ball
+# Trace Ball
 Moving NPC chasing the mouse
-# ExampleProjectRepo
 
 ### I. Initiative
-Overview of the project itself
+An NPC (that is a character controlled by the computer) targets the user's mouse position as the player moves across the screen; the game is over once the NPC touches the player's mouse position 3 times. 
 
 ### II. Epics and User Stories
 
 ##### Epics
-Outlining the main fuctions of the game
+- Use mouse pointer to move player character
+- NPC chases the player character
+- The player can survive a maximum of 3 crashes with the NPC
 
 ##### Non-Functional Requirements
-Asthetic or non essential requirements
+- The player character is a green square
+- The NPC is a red square
 
 ##### User Stories
-Written in the format: 
 
-As a player, I would _____
-
-
+- As a player, I can move the player character using a mouse 
+- As a player, I can see a green square 
+- As a player, I can see a red square 
+- As a player, I can see a well defined play area 
 
 ##### How We Addressed The Requirements
 
-How will your planned product meet the user requirements
+
 
 ### III. Genre
 
